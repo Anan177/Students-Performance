@@ -13,7 +13,7 @@ with Description:
     st.subheader("About App")
     st.markdown("""
                 + This is a simple app for predicting a student's performance and determining whether the student will graduate or drop out.
-                + DISCLAIMER: This model is trained by using Random Forest algorithm and requires several inputs or characteristics from the student.
+                + Notes: This model is trained by using Random Forest algorithm and requires several inputs or characteristics from the student.
                 """)
     st.info("##Created by Ananta A.T to complete the Dicoding Class.")
 with Input_Model:
